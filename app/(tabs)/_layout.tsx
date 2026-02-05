@@ -53,7 +53,7 @@ const _layout = () => {
           ),
         }}
       />
-      <Tabs.Screen
+      {/* <Tabs.Screen
         name="profile"
         options={{
           headerShown: false,
@@ -64,7 +64,7 @@ const _layout = () => {
             </>
           ),
         }}
-      />
+      /> */}
       <Tabs.Screen
         name="saved"
         options={{
